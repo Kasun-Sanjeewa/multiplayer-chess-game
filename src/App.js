@@ -1,10 +1,9 @@
 import './App.css';
+import ChessGame from './Components/ChessGame';
 
 function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <ChessGame />
   );
 }
 
