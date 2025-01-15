@@ -109,7 +109,7 @@ const ChessGame = () => {
                         boxShadow: "0 2px 10px rgba(0,0,0, 0.3)",
                     }}
                     customDarkSquareStyle={{
-                        backgroundColor: "#779952",
+                        backgroundColor: "#B58863",
                     }}
                     customLightSquareStyle={{
                         backgroundColor: "#edeed1",
